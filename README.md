@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/openmrs/openmrs-module-uiframework.svg?branch=master)](https://travis-ci.org/openmrs/openmrs-module-uiframework)
 
-OpenMRS UI Framework
+AidakoMed UI Framework
 ====================
 
 # Overview
